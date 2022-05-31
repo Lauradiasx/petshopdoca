@@ -1,0 +1,25 @@
+.navegação{
+    text-align: center;
+}
+.container, h1 {
+    color: #35b3c4;
+    text-align: center;
+}
+body{
+    background-color: #e1dfdf;
+}
+section{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+}
+h7{
+    color: black;
+}
+.mover{
+    position: relative;
+    left: 25px;
+}
+.mover:hover{
+     background-color: #96a4d3;
+}
