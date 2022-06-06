@@ -6,5 +6,4 @@ avaliacaoDI- pequeno site direcionado aos funcionarios do petshop, onde eles iri
 
 bootstrap, html, css, Javascript
 
-
-fa
+Utilizar o navegador edge, para a magica acontecer :)
