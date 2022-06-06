@@ -9,3 +9,5 @@ bootstrap, html, css, Javascript
 
 login: laura
 senha: 123321
+ 
+ Usar o navegador EDGE :) para ver os babados :)
